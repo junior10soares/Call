@@ -1,0 +1,1 @@
+export { default } from './home' // exportou a função da pasta home p k
